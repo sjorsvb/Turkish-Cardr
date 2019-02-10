@@ -1,0 +1,641 @@
+{
+  "title": "Turkish Unit 1",
+  "cards": [
+    {
+      "question": "merhaba",
+      "answer": "hello"
+    },
+    {
+      "question": "nasıl",
+      "answer": "how"
+    },
+    {
+      "question": "iyi",
+      "answer": "good"
+    },
+    {
+      "question": "iyiyim",
+      "answer": "I'm fine"
+    },
+    {
+      "question": "siz",
+      "answer": "you"
+    },
+    {
+      "question": "ben",
+      "answer": "I"
+    },
+    {
+      "question": "de",
+      "answer": "too, also"
+    },
+    {
+      "question": "adım",
+      "answer": "my name"
+    },
+    {
+      "question": "ad",
+      "answer": "name"
+    },
+    {
+      "question": "ne",
+      "answer": "what"
+    },
+    {
+      "question": "memnum oldum",
+      "answer": "I'm pleased"
+    },
+    {
+      "question": "adınız",
+      "answer": "your name"
+    },
+    {
+      "question": "sizin",
+      "answer": "your"
+    },
+    {
+      "question": "benim",
+      "answer": "my"
+    },
+    {
+      "question": "değil",
+      "answer": "not"
+    },
+    {
+      "question": "öyle mi?",
+      "answer": "is that so? / really?"
+    },
+    {
+      "question": "Türk",
+      "answer": "Turkish (person)"
+    },
+    {
+      "question": "milliyet",
+      "answer": "nationality"
+    },
+    {
+      "question": "milliyetiniz",
+      "answer": "your nationality"
+    },
+    {
+      "question": "İngiliz'im",
+      "answer": "I'm English"
+    },
+    {
+      "question": "Fransız",
+      "answer": "French (person)"
+    },
+    {
+      "question": "İngiliz",
+      "answer": "English (person)"
+    },
+    {
+      "question": "Londra",
+      "answer": "London"
+    },
+    {
+      "question": "Londralı",
+      "answer": "Londoner"
+    },
+    {
+      "question": "çok",
+      "answer": "very, a lot, much, many"
+    },
+    {
+      "question": "nederede",
+      "answer": "where"
+    },
+    {
+      "question": "memur",
+      "answer": "officer, clerk"
+    },
+    {
+      "question": "soyadı",
+      "answer": "surname"
+    },
+    {
+      "question": "soyadınız",
+      "answer": "your surname"
+    },
+    {
+      "question": "güzel",
+      "answer": "beautiful, nice"
+    },
+    {
+      "question": "Türkiye",
+      "answer": "Turkey"
+    },
+    {
+      "question": "öğretmen",
+      "answer": "teacher"
+    },
+    {
+      "question": "İngiltere",
+      "answer": "England"
+    },
+    {
+      "question": "ama",
+      "answer": "but"
+    },
+    {
+      "question": "öğrenci",
+      "answer": "student"
+    },
+    {
+      "question": "Türkçe",
+      "answer": "Turkish (language)"
+    },
+    {
+      "question": "bir",
+      "answer": "a/an, one"
+    },
+    {
+      "question": "harika",
+      "answer": "wonderful"
+    },
+    {
+      "question": "iş",
+      "answer": "job, work"
+    },
+    {
+      "question": "İngilizce",
+      "answer": "English (language)"
+    },
+    {
+      "question": "öğretmenim",
+      "answer": "I'm a teacher"
+    },
+    {
+      "question": "merhaba",
+      "answer": "hello"
+    },
+    {
+      "question": "selam",
+      "answer": "hi"
+    },
+    {
+      "question": "hoş geldiniz",
+      "answer": "welcome"
+    },
+    {
+      "question": "hoş bulduk",
+      "answer": "thanks for your welcome"
+    },
+    {
+      "question": "iyi günler",
+      "answer": "have a nice day, good day"
+    },
+    {
+      "question": "tünaydın",
+      "answer": "good afternoon"
+    },
+    {
+      "question": "iyi akşamlar",
+      "answer": "good evening"
+    },
+    {
+      "question": "iyi geceler",
+      "answer": "good night"
+    },
+    {
+      "question": "görüşürüz",
+      "answer": "see you"
+    },
+    {
+      "question": "sonra görüşürüz",
+      "answer": "see you later"
+    },
+    {
+      "question": "güle güle",
+      "answer": "goodbye"
+    },
+    {
+      "question": "allahaısmarladık",
+      "answer": "goodbye"
+    },
+    {
+      "question": "hoşça kal",
+      "answer": "goodbye"
+    },
+    {
+      "question": "anlamadım",
+      "answer": "I don't understand"
+    },
+    {
+      "question": "kendine iyi bak",
+      "answer": "take care (of yourself)"
+    },
+    {
+      "question": "nasılsınız",
+      "answer": "how are you? (formal)"
+    },
+    {
+      "question": "nasılsın",
+      "answer": "how are you? (informal)"
+    },
+    {
+      "question": "kusura bakma",
+      "answer": "sorry (informal)"
+    },
+    {
+      "question": "kusura bakmayin",
+      "answer": "sorry (formal)"
+    },
+    {
+      "question": "evet",
+      "answer": "yes"
+    },
+    {
+      "question": "hayır",
+      "answer": "no"
+    },
+    {
+      "question": "pardon",
+      "answer": "excuse me"
+    },
+    {
+      "question": "özür dilerim",
+      "answer": "sorry, I apologize"
+    },
+    {
+      "question": "affedersiniz",
+      "answer": "excuse me"
+    },
+    {
+      "question": "lütfen",
+      "answer": "please"
+    },
+    {
+      "question": "teşekkur ederim",
+      "answer": "thank you"
+    },
+    {
+      "question": "teşekkurler",
+      "answer": "thanks (informal)"
+    },
+    {
+      "question": "sağ ol",
+      "answer": "thanks (very informal)"
+    },
+    {
+      "question": "bir şey değil",
+      "answer": "not at all, you're welcome"
+    },
+    {
+      "question": "rica ederim",
+      "answer": "not at all (very formal)"
+    },
+    {
+      "question": "tamam",
+      "answer": "OK / okay, all right"
+    },
+    {
+      "question": "geçmiş olsun",
+      "answer": "get well soon"
+    },
+    {
+      "question": "iyi şanslar",
+      "answer": "good luck"
+    },
+    {
+      "question": "aferin",
+      "answer": "well done"
+    },
+    {
+      "question": "tebrikler",
+      "answer": "congratulations"
+    },
+    {
+      "question": "ne haber",
+      "answer": "what's up?"
+    },
+    {
+      "question": "selam söyle",
+      "answer": "say hello"
+    },
+    {
+      "question": "yalnız",
+      "answer": "lonely, alone"
+    },
+    {
+      "question": "doktor",
+      "answer": "doctor"
+    },
+    {
+      "question": "hasta",
+      "answer": "sick, ill, patient"
+    },
+    {
+      "question": "yorgun",
+      "answer": "tired"
+    },
+    {
+      "question": "profesör",
+      "answer": "professor"
+    },
+    {
+      "question": "Alman",
+      "answer": "German"
+    },
+    {
+      "question": "yarım elma",
+      "answer": "half apple"
+    },
+    {
+      "question": "yarım saat",
+      "answer": "half an hour"
+    },
+    {
+      "question": "yarım kilo",
+      "answer": "half a kilo"
+    },
+    {
+      "question": "çeyrek final",
+      "answer": "quarter final"
+    },
+    {
+      "question": "iki buçuk saat",
+      "answer": "two and a half hours"
+    },
+    {
+      "question": "dört buçuk kilo",
+      "answer": "4 and a half kilos"
+    },
+    {
+      "question": "bir buçuk porsiyon",
+      "answer": "one and a half portions (servings)"
+    },
+    {
+      "question": "iki buçuk",
+      "answer": "two and a half"
+    },
+    {
+      "question": "dört buçuk",
+      "answer": "four and a half"
+    },
+    {
+      "question": "kalem",
+      "answer": "pencil"
+    },
+    {
+      "question": "kalemler",
+      "answer": "pencils"
+    },
+    {
+      "question": "çicek",
+      "answer": "flower"
+    },
+    {
+      "question": "çiçekler",
+      "answer": "flowers"
+    },
+    {
+      "question": "bebek",
+      "answer": "baby"
+    },
+    {
+      "question": "bebekler",
+      "answer": "babies"
+    },
+    {
+      "question": "köpek",
+      "answer": "dog"
+    },
+    {
+      "question": "köpekler",
+      "answer": "dogs"
+    },
+    {
+      "question": "ev",
+      "answer": "house/home"
+    },
+    {
+      "question": "evler",
+      "answer": "houses/homes"
+    },
+    {
+      "question": "otel",
+      "answer": "hotel"
+    },
+    {
+      "question": "oteller",
+      "answer": "hotels"
+    },
+    {
+      "question": "fare",
+      "answer": "mouse"
+    },
+    {
+      "question": "fareler",
+      "answer": "mice"
+    },
+    {
+      "question": "sinek",
+      "answer": "fly"
+    },
+    {
+      "question": "sinekler",
+      "answer": "flies"
+    },
+    {
+      "question": "kitap",
+      "answer": "book"
+    },
+    {
+      "question": "kitaplar",
+      "answer": "books"
+    },
+    {
+      "question": "insan",
+      "answer": "human"
+    },
+    {
+      "question": "insanlar",
+      "answer": "people"
+    },
+    {
+      "question": "armut",
+      "answer": "pear"
+    },
+    {
+      "question": "armutlar",
+      "answer": "pears"
+    },
+    {
+      "question": "kuş",
+      "answer": "bird"
+    },
+    {
+      "question": "kuşlar",
+      "answer": "birds"
+    },
+    {
+      "question": "çocuk",
+      "answer": "child"
+    },
+    {
+      "question": "çocuklar",
+      "answer": "children"
+    },
+    {
+      "question": "at",
+      "answer": "horse"
+    },
+    {
+      "question": "atlar",
+      "answer": "horses"
+    },
+    {
+      "question": "kaz",
+      "answer": "goose"
+    },
+    {
+      "question": "kazlar",
+      "answer": "geese"
+    },
+    {
+      "question": "duvar",
+      "answer": "wall"
+    },
+    {
+      "question": "duvarlar",
+      "answer": "walls"
+    },
+    {
+      "question": "Türkler",
+      "answer": "Turkish people"
+    },
+    {
+      "question": "İngilizler",
+      "answer": "English people"
+    },
+    {
+      "question": "Almanlar",
+      "answer": "German people"
+    },
+    {
+      "question": "Fransızlar",
+      "answer": "French people"
+    },
+    {
+      "question": "paralar",
+      "answer": "money"
+    },
+    {
+      "question": "sular",
+      "answer": "water"
+    },
+    {
+      "question": "bilgi",
+      "answer": "information"
+    },
+    {
+      "question": "bilgiler",
+      "answer": "information"
+    },
+    {
+      "question": "kar",
+      "answer": "snow"
+    },
+    {
+      "question": "karlar",
+      "answer": "snow"
+    },
+    {
+      "question": "tuz",
+      "answer": "salt"
+    },
+    {
+      "question": "tuzlar",
+      "answer": "salt"
+    },
+    {
+      "question": "pantolon",
+      "answer": "trousers"
+    },
+    {
+      "question": "pantolonlar",
+      "answer": "more than one pair of trousers"
+    },
+    {
+      "question": "gözlük",
+      "answer": "glasses"
+    },
+    {
+      "question": "gözlükler",
+      "answer": "more than one pair of glasses"
+    },
+    {
+      "question": "makas",
+      "answer": "scissors"
+    },
+    {
+      "question": "makaslar",
+      "answer": "more than one pair of scissors"
+    },
+    {
+      "question": "çoğul",
+      "answer": "plural"
+    },
+    {
+      "question": "tatlı",
+      "answer": "sweet"
+    },
+    {
+      "question": "saat",
+      "answer": "watch, clock, hour"
+    },
+    {
+      "question": "protokol",
+      "answer": "protocol"
+    },
+    {
+      "question": "alkol",
+      "answer": "alcohol"
+    },
+    {
+      "question": "hakikat",
+      "answer": "reality, truth, fact"
+    },
+    {
+      "question": "harf",
+      "answer": "letter (character)"
+    },
+    {
+      "question": "dair",
+      "answer": "related to, concerning"
+    },
+    {
+      "question": "muayenehane",
+      "answer": "doctor's surgery"
+    },
+    {
+      "question": "daire",
+      "answer": "circle, apartment"
+    },
+    {
+      "question": "maalesef",
+      "answer": "unfortunately"
+    },
+    {
+      "question": "maaş",
+      "answer": "salary, wage"
+    },
+    {
+      "question": "müsaade",
+      "answer": "permission"
+    },
+    {
+      "question": "fiil",
+      "answer": "verb"
+    },
+    {
+      "question": "aile",
+      "answer": "family"
+    },
+    {
+      "question": "tabii",
+      "answer": "of course, natural"
+    }
+  ]
+}
